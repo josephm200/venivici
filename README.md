@@ -46,7 +46,8 @@ GIF created with LICECap
 Describe any challenges encountered while building the app.
 
 Getting API calls to work was a challenge. User text input worked instead of a button input, but in a future implementation
-I would hope to implement multiple ways to interact with the site and the data.
+I would hope to implement multiple ways to interact with the site and the data. Implementation of a ban list is also something I wish
+to add in the future.
 
 ## License
 
