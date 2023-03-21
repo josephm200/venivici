@@ -1,6 +1,6 @@
-# Web Development Project 4 - *Name of App Here*
+# Web Development Project 4 - Weather API App
 
-Submitted by: Weather API App
+Submitted by: Joseph Mecherikunnel
 
 This web app: **insert description**
 
