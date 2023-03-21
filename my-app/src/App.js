@@ -26,7 +26,9 @@ function App() {
           onKeyPress={searchLocation}
           placeholder='Enter Location'
           type="text" />
+          {/* <button >HELLO</button> */}
       </div>
+      
       <div className="container">
         <div className="top">
           <div className="location">
@@ -56,9 +58,6 @@ function App() {
             </div>
           </div>
         }
-
-
-
       </div>
     </div>
   );

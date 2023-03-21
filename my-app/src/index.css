@@ -19,7 +19,7 @@ p {
 }
 
 h1 {
-  font-size: 6rem;
+  font-size: 12rem;
 }
 
 .app {
@@ -43,7 +43,7 @@ h1 {
 
 .app .search {
   text-align: center;
-  padding: 1rem;
+  padding: 2rem;
 }
 
 .app input {
@@ -78,9 +78,10 @@ h1 {
 
 .app .description {
   position: relative;
+  top: -45%;
   right: -90%;
   transform-origin: 0 0;
-  transform: rotate(269deg);
+  /* transform: rotate(269deg); */
 }
 
 .app .bottom {
@@ -91,17 +92,9 @@ h1 {
   margin: 1rem auto;
   padding: 1rem;
   border-radius: 12px;
-  background-color: rgba(255,255,255, 0.2);
+  background-color: rgba(0, 183, 255, 0.345);
 }
 
 .bold {
   font-weight: 700;
 }
-
-
-
-
-
-
-
-

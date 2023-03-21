@@ -1,17 +1,17 @@
-# Web Development Project 4 - Weather API App
+# Web Development Project 4 - Veni Vici Weather API App
 
 Submitted by: Joseph Mecherikunnel
 
-This web app: **insert description**
+This web app: This web app uses the OpenWeatherMap API to take user input for a location and display current temperature, cloud coverage, humidity, and wind speed data.
 
-Time spent: **X** hours spent in total
+Time spent: 6 hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] **Clicking a button creates a new API fetch request and displays at least three attributes from the returned JSON data**
-- [ ] **Only one item/API call is viewable at a time**
+- [X] **Clicking a button creates a new API fetch request and displays at least three attributes from the returned JSON data**
+- [X] **Only one item/API call is viewable at a time**
 - [ ] **API calls appear random to the user**
 - [ ] **At least one image is displayed per API call**
 - [ ] **Clicking on a displayed value for one attribute adds it to a displayed ban list**
@@ -24,7 +24,9 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-* [ ] List anything else that you added to improve the site's functionality!
+* [X] List anything else that you added to improve the site's functionality!
+
+User input is allowed to display a specific region of the user's interest. This was used in place of a button input.
 
 ## Video Walkthrough
 
