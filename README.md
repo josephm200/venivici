@@ -1,6 +1,6 @@
 # Web Development Project 4 - *Name of App Here*
 
-Submitted by: **Your Name Here**
+Submitted by: Weather API App
 
 This web app: **insert description**
 
